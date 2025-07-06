@@ -6,3 +6,7 @@ em um alvo na tela o mais rápido possível num
 período de tempo (exemplo abaixo).
 
 https://codepen.io/YEDDA-the-reactor/pen/dPygdaQ
+
+Demais isntruções vide wiki.
+
+
