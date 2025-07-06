@@ -9,4 +9,6 @@ https://codepen.io/YEDDA-the-reactor/pen/dPygdaQ
 
 Demais isntruções vide wiki.
 
+https://github.com/YeddaMC/GTI3-WEB2-AULA-2/wiki
+
 
